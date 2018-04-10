@@ -100,4 +100,4 @@ http://mhellar.github.io/ga_nodeclass/3
 - Building a simple AR project
 - Passing data streams to AR.js via websockets
 - Combining sensor data and AR
-- Project: Interactive AR walk. Build a sensor node with the ESP32 that send a message to the AR interface. Place them in the pace in a unique way. End of day will result in a class tour.
+- Project: Interactive AR walk. Build a sensor node with the ESP32 that sends a message to the AR interface. Place them in the space in a unique way. End of day will result in a class tour.
